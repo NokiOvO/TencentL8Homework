@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\FPSProject.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{164101A9-45EB-4B09-8E25-EDDFACE76FA7}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\FPSProject.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\FPSProjectEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{37D90BB4-72E7-48AE-9AC7-D75FC27BE250}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Platforms">
+      <UniqueIdentifier>{326F5CE0-EEDB-45EC-821B-B64E4E9F2DAA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Platforms\Android">
+      <UniqueIdentifier>{672FCD22-F90A-43A8-B35E-7B403FFD4922}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Platforms\Android\Config">
+      <UniqueIdentifier>{AFF4245A-749D-44F4-A743-B79CBDC750F4}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Platforms\Android\Config\AndroidEngine.ini">
+      <Filter>Platforms\Android\Config</Filter>
+    </None>
+    <Filter Include="Platforms\IOS">
+      <UniqueIdentifier>{F67BECCA-C2F0-4C75-9ABB-366A857A3F69}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Platforms\IOS\Config">
+      <UniqueIdentifier>{7F7DAE69-795A-431F-AEA7-FD6D4950D172}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Platforms\IOS\Config\IOSEngine.ini">
+      <Filter>Platforms\IOS\Config</Filter>
+    </None>
+    <Filter Include="Platforms\Linux">
+      <UniqueIdentifier>{4B4C2ECD-38BD-400C-B142-8B13EDB73E62}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Platforms\Linux\Config">
+      <UniqueIdentifier>{1A627C90-694A-4598-822E-07F693917E36}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Platforms\Linux\Config\LinuxEngine.ini">
+      <Filter>Platforms\Linux\Config</Filter>
+    </None>
+    <Filter Include="Platforms\Mac">
+      <UniqueIdentifier>{BD89F768-D2DC-4851-8D68-B33E31A26169}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Platforms\Mac\Config">
+      <UniqueIdentifier>{B25A8D31-6F29-495D-B61C-AFF998AF51A3}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Platforms\Mac\Config\MacEngine.ini">
+      <Filter>Platforms\Mac\Config</Filter>
+    </None>
+    <Filter Include="Platforms\Windows">
+      <UniqueIdentifier>{E6CAB56F-446B-424A-B98A-1983580C52B0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Platforms\Windows\Config">
+      <UniqueIdentifier>{2833B676-7605-4372-B448-2171FC1D0A40}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Platforms\Windows\Config\WindowsEngine.ini">
+      <Filter>Platforms\Windows\Config</Filter>
+    </None>
+    <Filter Include="Source\FPSProject">
+      <UniqueIdentifier>{B1DF47DC-8D91-4AE9-BBD1-A7F0F96C172C}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\FPSProject\FPSCharacter.cpp">
+      <Filter>Source\FPSProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPSProject\FPSCharacter.h">
+      <Filter>Source\FPSProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FPSProject\FPSHUD.cpp">
+      <Filter>Source\FPSProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPSProject\FPSHUD.h">
+      <Filter>Source\FPSProject</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\FPSProject\FPSProject.Build.cs">
+      <Filter>Source\FPSProject</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\FPSProject\FPSProject.cpp">
+      <Filter>Source\FPSProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPSProject\FPSProject.h">
+      <Filter>Source\FPSProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FPSProject\FPSProjectGameModeBase.cpp">
+      <Filter>Source\FPSProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPSProject\FPSProjectGameModeBase.h">
+      <Filter>Source\FPSProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FPSProject\FPSProjectile.cpp">
+      <Filter>Source\FPSProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FPSProject\FPSProjectile.h">
+      <Filter>Source\FPSProject</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

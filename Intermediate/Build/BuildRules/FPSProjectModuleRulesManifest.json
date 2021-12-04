@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\11.18\\MyProject\\Source\\FPSProject\\FPSProject.Build.cs",
+		"D:\\11.18\\MyProject\\Source\\FPSProject.Target.cs",
+		"D:\\11.18\\MyProject\\Source\\FPSProjectEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.1"
+}
